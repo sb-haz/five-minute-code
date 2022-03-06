@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="content">
       <div className="text-box">
-        <h1>🧑‍💻 Five Minute Code</h1>
+        <h1><span>🧑‍💻</span> Five Minute Code</h1>
         <div className="links">
           <a href={youtube}>YouTube</a>
           <p>•</p>
