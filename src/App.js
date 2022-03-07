@@ -11,11 +11,11 @@ function App() {
       <div className="text-box">
         <h1><span>🧑‍💻</span> Five Minute Code</h1>
         <div className="links">
-          <a href={youtube}>YouTube</a>
+          <a href={youtube} target="_blank">YouTube</a>
           <p>•</p>
-          <a href={twitter}>Twitter</a>
+          <a href={twitter} target="_blank">Twitter</a>
           <p>•</p>
-          <a href={github}>GitHub</a>
+          <a href={github} target="_blank">GitHub</a>
         </div>
       </div>
     </div>
