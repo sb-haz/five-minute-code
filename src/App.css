@@ -10,13 +10,14 @@
 
 body {
   background: linear-gradient(90deg, rgb(255, 110, 110), rgb(230, 235, 15));
-  min-height: 100vh;
+
 }
 
 .content {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  min-height: -webkit-fill-available;
   align-items: center;
   justify-content: center;
 }
